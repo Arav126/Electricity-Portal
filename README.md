@@ -1,5 +1,7 @@
 # Electricity-Portal
 
+A UG 3rd Sem Project submitted on Dec 2021.
+
 A web-based user interface for electricity bill payment system where you can
 - View your current electricity bills.
 - Pay your Bills (before the due time or incure a fee).
